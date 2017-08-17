@@ -1,6 +1,6 @@
 {
   "name": "rmc-tools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "offline tools for react component",
   "keywords": [
     "react",
@@ -19,8 +19,8 @@
   },
   "licenses": "MIT",
   "bin": {
-    "rc-tools": "./bin/rc-tools.js",
-    "rc-tools-run": "./bin/rc-tools-run.js"
+    "rmc-tools": "./bin/rc-tools.js",
+    "rmc-tools-run": "./bin/rc-tools-run.js"
   },
   "scripts": {
     "postinstall": "node lib/init.js",
