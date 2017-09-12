@@ -1,21 +1,21 @@
 {
   "name": "rmc-tools",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "offline tools for react component",
   "keywords": [
     "react",
     "tools"
   ],
-  "homepage": "http://github.com/react-component/rc-tools",
+  "homepage": "https://github.com/paranoidjk/rc-tools",
   "author": {
     "name": "yiminghe@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:react-component/rc-tools.git"
+    "url": "git@github.com:paranoidjk/rc-tools.git"
   },
   "bugs": {
-    "url": "http://github.com/react-component/rc-tools/issues"
+    "url": "http://github.com/paranoidjk/rc-tools/issues"
   },
   "licenses": "MIT",
   "bin": {
